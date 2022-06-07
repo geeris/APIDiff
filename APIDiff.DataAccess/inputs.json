@@ -1,0 +1,42 @@
+{
+  "Left": [
+    {
+      "Id": 1,
+      "Data": "AAAAAA=="
+    },
+    {
+      "Id": 3,
+      "Data": "AAAAAA=="
+    },
+    {
+      "Id": 4,
+      "Data": "AAA=="
+    },
+    {
+      "Id": 5,
+      "Data": "AQABAQ=="
+    },
+    {
+      "Id": 6,
+      "Data": "AAA="
+    }
+  ],
+  "Right": [
+    {
+      "Id": 2,
+      "Data": "AAAAAA=="
+    },
+    {
+      "Id": 3,
+      "Data": "AAAAAA=="
+    },
+    {
+      "Id": 4,
+      "Data": "AAAAAA=="
+    },
+    {
+      "Id": 5,
+      "Data": "AAAAAA=="
+    }
+  ]
+}

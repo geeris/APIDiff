@@ -19,8 +19,7 @@ If condition is not met, endpoint returns NotFound response.
 In case every check has been satisfied, we check whether data of objects:
 	are equal - return message in JSON format
 	are of different size - return message in JSON format
-	are of the same size but not equal - returns message followed by array with offset(position of byte that differs) and its length representing 
-	difference in data.
+	are of the same size but not equal - returns message followed by array with offset(position of byte that differs) and its length representing difference in data.
 
 
 
